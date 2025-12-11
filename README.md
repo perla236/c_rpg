@@ -1,6 +1,9 @@
 
 # c_rpg [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
+<!--![Cover](https://github.com/perla236/c_rpg/blob/main/cover.jpg?raw=true) -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/perla236/c_rpg/refs/heads/main/cover.jpg" width="500">
+</p>
 Ovo je jednostavna RPG igra (Role-Playing Game) napisana u C jeziku. Aplikacija simulira osnovne elemente RPG-a, uključujući kreiranje lika, borbu protiv neprijatelja, sustav leveliranja (napredovanja), korištenje predmeta (itema) te spremanje i učitavanje stanja igre i ljestvice najboljih (Leaderboard).
 
 ## 🚀 Pokretanje Igre
