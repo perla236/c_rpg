@@ -86,4 +86,4 @@ Key Techniques Used:
  * Function Pointers: Employed to implement various attack types (both player and enemy) and item effects. This allows for flexible addition of new actions.
  * File Handling: Binary I/O (fread, fwrite) is used for the persistent storage of game state and the leaderboard.
  * Console Graphics: ANSI escape sequences (e.g., \033[1;32m for green color) are used to display HP bars and enhance the visual experience in the terminal.
-END
+
